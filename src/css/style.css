@@ -278,6 +278,9 @@ section.detail-project p {
 section.detail-project .image-detail-project {
   padding-top: 100px;
 }
+section.detail-project .image-detail-project .col-md-7 {
+  margin-top: 15px;
+}
 section.detail-project ul {
   font-size: 18px;
   color: #475569;
