@@ -385,6 +385,10 @@ section.detail-project {
 
     .image-detail-project {
         padding-top: $pt-100;
+        
+        .col-md-7 {
+            margin-top: $mt-15;
+        }
     }
 
     ul {
